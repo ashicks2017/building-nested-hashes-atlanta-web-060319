@@ -1,1 +1,1 @@
-def first_
+def second_challenge
